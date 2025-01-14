@@ -1,0 +1,5 @@
+rootProject.name = 'playground'
+
+include('domain')
+include('client')
+include('batch')
